@@ -25,6 +25,9 @@ git push
 **Whenever you want to get updated notes:**
   
 5. Grab the changes from the upstream repo
-  ```git fetch upstream```
+ ```
+git fetch upstream
+```  
 6. Merge new changes onto your local repo
-  ```git merge upstream/main -m "meaningful message about what you're updating"```
+  ```
+git merge upstream/main -m "meaningful message about what you're updating"```  
