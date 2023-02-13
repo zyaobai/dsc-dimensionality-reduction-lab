@@ -3,7 +3,7 @@
 Give students exposure to using branches for collaboration.
 
 Main Materials:
-- [Google Slides: Introducing Git and GitHub](https://docs.google.com/presentation/d/1SOQBauuhUYVO8vyr1bZQjL1_MPkgwi1rhoazlElKZJ4/edit?usp=sharing)
+- [Google Slides: Creating Repositories and Collaborating with Git](https://docs.google.com/presentation/d/10Q1G66IAh9Y_oVHj-YyYuA730_1iyE8iHBlYkZjFv7E/edit?usp=sharing)
 
 ## Learning Goals
 
